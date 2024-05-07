@@ -13,6 +13,7 @@ public class MainTarea6ED {
     /**
      * @param args the command line arguments
      */
+    //Entrega6ED
     public static void main(String[] args) {
         Tarea6EDClaseRen miCarrito = new Tarea6EDClaseRen();
 
